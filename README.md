@@ -6,14 +6,18 @@
 ## 🍜 인원
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/ShapeKim98"><img src="https://avatars.githubusercontent.com/ShapeKim98" width="150px;" alt="">
     <td align="center"><a href="https://github.com/devmizz"><img src="https://avatars.githubusercontent.com/devmizz" width="150px;" alt="">
+      <td align="center"><a href="https://github.com/GaBaljaintheroom"><img src="https://avatars.githubusercontent.com/GaBaljaintheroom" width="150px;" alt="">
     <td align="center"><a href="https://github.com/chock-cho"><img src="https://avatars.githubusercontent.com/chock-cho" width="150px;" alt="">
     <td align="center"><a href="https://github.com/yesjjin99"><img src="https://avatars.githubusercontent.com/yesjjin99" width="150px;" alt="">
     <td align="center"><a href="https://github.com/Ji-soo708"><img src="https://avatars.githubusercontent.com/Ji-soo708" width="150px;" alt="">
     <td align="center"><a href="https://github.com/fakerdeft"><img src="https://avatars.githubusercontent.com/fakerdeft" width="150px;" alt="">
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/ShapeKim98"><b>ShapeKim98</b></td>
     <td align="center"><a href="https://github.com/devmizz"><b>devmizz</b></td>
+    <td align="center"><a href="https://github.com/GaBaljaintheroom"><b>GaBaljaintheroom</b></td>
     <td align="center"><a href="https://github.com/chock-cho"><b>chock-cho</b></td>
     <td align="center"><a href="https://github.com/yesjjin99"><b>yesjjin99</b></td>
     <td align="center"><a href="https://github.com/Ji-soo708"><b>Ji-soo708</b></td>
